@@ -34,6 +34,11 @@
 - SpringBoot (framework)
 - H2 (Banco de dados)
 ```
-#### Requisições web: HTTP/JSON
+#### Requisições web: 
+#### Framework e Banco de Dados:
+```
+- HTTP
+- JSON
+```
 
 
