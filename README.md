@@ -2,10 +2,8 @@
 
 ## Projeto full-stack
 
-### front-end
+### FRONTEND
 #### Linguagens: 
-
-
 ```
 - HTML5/CSS3
 - JavaScript/TypeScript
