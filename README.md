@@ -2,9 +2,11 @@
 
 ## Projeto full-stack
 
-### No front-end: 
+### front-end
+#### Linguagens: 
 
-```Linguagens:
+
+```
 
  
  
