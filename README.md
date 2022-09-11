@@ -31,3 +31,7 @@
 - H2 (Banco de dados)
 ```
 #### Requisições web: HTTP/JSON
+  
+### Aqui segue algumas anotações feitas por mim sobre equanto realizava o projeto.
+
+- <a href="https://drive.google.com/file/d/1KX-WPZ9_kYLt19KDdZNrfl5cPFsCriQN/view?usp=drivesdk">Anotações Mateus Levi - Projeto Spring</a> 
