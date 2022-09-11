@@ -3,7 +3,7 @@
   datePicker; ReactHook useState.
   <br>
   Em seguida o estudo e definição do Backend: Entidades; banco de dados; database seed; listagem de dados; API REST; integração com SMS. Logo após a integração completa do projeto, requisições com axios, React Hook, useEffect; parâmetros de consulta; implantação na nuvem. 
-</p<
+</p>
   
 ### Aqui segue algumas anotações feitas por mim sobre: dúvidas, etapas, tecnologias e dicas importantes equanto realizava o projeto.
 
