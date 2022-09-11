@@ -13,3 +13,10 @@
 ```
 - ReactJS
 ```
+
+### BACKEND
+#### Linguagens:
+```
+-Java
+-SQL
+```
