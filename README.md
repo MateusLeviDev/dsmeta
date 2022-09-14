@@ -38,7 +38,6 @@
 - H2 (Banco de dados)
 ```
 #### Requisições web: 
-#### Framework e Banco de Dados:
 ```
 - HTTP
 - JSON
